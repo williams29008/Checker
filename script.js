@@ -1,4 +1,4 @@
-const API_KEY = "YOUR_API_KEY";
+const API_KEY = "E0L19N09AUCR4FOO";
 
 async function getStockPrice() {
     const symbol = document.getElementById("symbol").value.trim().toUpperCase();
